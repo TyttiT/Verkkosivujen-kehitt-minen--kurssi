@@ -1,0 +1,24 @@
+body {
+    background-color:black;
+    color:white;
+    font-size: 10px;
+}
+h1{
+    font-size: 20px;
+}
+p{
+    color:lightgray;
+    font-size: 12px;
+}
+ul {
+    list-style: square;
+}
+ol {
+    list-style: lower-alpha;
+}
+div.blue {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border: 2px dotted white;
+}
